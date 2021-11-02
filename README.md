@@ -17,72 +17,35 @@ pip install pytesseract
 ```json
 {
    "header":[
-      "Name",
-      "Email",
-      "Age",
-      "Status"
+      "Name", "Email", "Age", "Status"
    ],
    "values":[
       [
-         "Leanne",
-         "Graham",
-         "Sincere@april.biz",
-         "28",
-         "Active"
+         "Leanne", "Graham", "Sincere@april.biz", "28", "Active"
       ],
       [
-         "Ervin",
-         "Howell",
-         "Shanna@melissa.tv",
-         "35",
-         "Active"
+         "Ervin", "Howell", "Shanna@melissa.tv", "35", "Active"
       ],
       [
-         "Clementine",
-         "Bauch",
-         "Nathan@yesenia.net",
-         "33",
-         "Inactive"
+         "Clementine", "Bauch", "Nathan@yesenia.net", "33", "Inactive"
       ],
       [
-         "Patricia",
-         "Lebsack",
-         "Julianne@kory.org",
-         "25",
-         "Active"
+         "Patricia", "Lebsack", "Julianne@kory.org", "25", "Active"
       ],
       [
-         "Kamren",
-         "Hettinger@annie.ca",
-         "42",
-         "Active"
+         "Kamren", "Hettinger@annie.ca", "42", "Active"
       ],
       [
-         "Dennis",
-         "Schulist",
-         "Dach@jasper.info",
-         "34",
-         "Inactive"
+         "Dennis", "Schulist", "Dach@jasper.info", "34", "Inactive"
       ],
       [
-         "Kurtis",
-         "Weissnat",
-         "Hoeger@billy.biz",
-         "44",
-         "Active"
+         "Kurtis", "Weissnat", "Hoeger@billy.biz", "44", "Active"
       ],
       [
-         "Maxime_Nienow",
-         "Sherwood@rosamond.me",
-         "26",
-         "Active"
+         "Maxime_Nienow", "Sherwood@rosamond.me", "26", "Active"
       ],
       [
-         "Glenna",
-         "Reichert",
-         "McDermott@dana.io",
-         "30",
-         "Inactive"
+         "Glenna", "Reichert", "McDermott@dana.io", "30", "Inactive"
       ]
    ]
 }
