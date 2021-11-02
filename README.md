@@ -11,7 +11,7 @@ pip install pytesseract
 ```
 
 ###Input image
-  <td width="100%"><img src="https://github.com/imamhossain94/sololearn/blob/main/table.png" alt="BLANK"></td>
+  <td width="100%"><img src="https://github.com/imamhossain94/image-to-data-table-extractor/blob/main/table.png" alt="BLANK"></td>
 
 ###Output data
 ```json
