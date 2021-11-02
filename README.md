@@ -1,6 +1,6 @@
-#Image to Text Data
+# Image to Text Data
 
-###Tools used
+### Tools used
 * <a href="https://pypi.org/project/Pillow/">Pillow</a>
 * <a href="https://pypi.org/project/pytesseract/">PyTesseract</a>
 * <a href="https://tesseract-ocr.github.io/tessdoc/Downloads">Tesseract EXE Download</a>
@@ -10,10 +10,10 @@ pip install Pillow
 pip install pytesseract
 ```
 
-###Input image
+### Input image
   <td width="100%"><img src="https://github.com/imamhossain94/image-to-data-table-extractor/blob/main/table.png" alt="BLANK"></td>
 
-###Output data
+### Output data
 ```json
 {
    "header":[
